@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    background-image:  url("https://www.icegif.com/wp-content/uploads/icegif-4149.gif");
+}
+#heading{
+    font-family: chiller;
+    font-size: 50px;
+    color: blue;
+}
+#underline{
+    color: greenyellow;
+}
+#intro{
+   background: rgb(22,203,178);
+   background: linear-gradient(90deg, rgba(22,203,178,1) 0%, rgba(179,50,181,1) 55%, rgba(0,212,255,1) 100%); 
+    margin-top: 50px;
+    border-radius: 100px;
+    height: 90%;
+    padding-right: 10px;
+    height: 100%;
+}
+img{
+    height: 400px;
+    width:  400px;
+    border-radius: 100px;
+    margin-right: 
+}
+#intro kbd{
+    font-family: monospace;
+    color: deepskyblue;
+    font-size: 45px;
+    border-radius: 20px;
+}
+#image_all{
+    border-radius: 75px;
+    border: 5px solid azure;
+}
+.line {
+height: 6px;
+background-color: #000; 
+width: 70px; 
+margin: 8px auto;
+}
+#hobby{
+    background-image: url(https://cdn.dribbble.com/users/1595839/screenshots/11700339/media/5b39c07a6a721b6b440288c6c6ec5cb1.gif);
+    border-radius: 100px;
+    height: 90%;
+}
+#hobby p{
+    background-color: aqua;
+    font-family: monospace;
+    font-size: 20px;
+    margin: 16px;
+}
+#work {
+    background-image: url(https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif)
+}
